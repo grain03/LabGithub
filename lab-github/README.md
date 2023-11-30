@@ -2,7 +2,7 @@
 
 ## Travail à faire
 
-Créez un projet de blog en collaborant avec votre collègue dans le même repository de github.
+Créer un projet de blog et le modifier dans une autre branche.
 
 ## Critères de Validation:
 
@@ -12,7 +12,7 @@ Créez un projet de blog en collaborant avec votre collègue dans le même repos
 
 
 # Solution 
-[Solution](./test1.html)
+[Solution](./Blog.html)
 
 # Ressource 
 [Ressource](https://leonardomontini.dev/merge-conflict-vscode/)
